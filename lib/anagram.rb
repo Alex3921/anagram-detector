@@ -13,6 +13,6 @@ class Anagram
                 new_array << word
             end
         end
-        new_array
+        return new_array
     end
 end
